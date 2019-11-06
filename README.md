@@ -11,7 +11,7 @@ Web application for submitting and viewing train schedules
 * Moment.js  
 * Firebase JavaScript SDK 6.2.3  
 
-## About This Game
+## About This App
 This app includes the following functionalities:  
 * Allows user to enter train name, destination, first train time, and train frequency  
 * Stores submitted data in firebase database  

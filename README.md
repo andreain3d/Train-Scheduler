@@ -18,5 +18,5 @@ This app includes the following functionalities:
 * Calculates the next train time and how many minutes away from the current time  
 * Displays submitted and calculated train information in a table  
 
-##Credits
+## Credits
 Code by Andrea Nicholson

@@ -1,6 +1,7 @@
 # Train-Scheduler
 
-Web application for submitting and viewing train schedules
+Web application for submitting and viewing train schedules built with javascript and Google Firebase.  
+Access the deployed version [here](https://andreain3d.github.io/Train-Scheduler/).
 
 ## Technologies Used
 * HTML 5  
